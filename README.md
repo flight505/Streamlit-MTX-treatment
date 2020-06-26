@@ -112,16 +112,10 @@ black app
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
-    ├── dev-requirements.in    <- The source of dev-requirements file to compile
-    ├── dev-requirements.txt   <- The requirements file for reproducing the dev environment
-    │
-    ├── requirements.in    <- The source requirements file to compile
     ├── requirements.txt   <- The requirements file for reproducing the production environment
     │
-    └── src                <- Source code for use in this project.
-        ├── __init__.py    <- Makes src a Python module
-        |
-        ├── dataset.py          <- Scripts to download or generate data
-        └── diagnostics.py      <- Code for each diagnostic
+    └── pages              <- Source code for use in this project.
+        ├── __init__.py    <- Makes Python module
+
        
 Freely adapted from [cookiecutter-datascience directory structure](https://drivendata.github.io/cookiecutter-data-science/#directory-structure)
