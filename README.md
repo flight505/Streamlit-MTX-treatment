@@ -1,7 +1,5 @@
 # MTX Streamlit App
 
-TODO
-
 ## Objective
 
 TODO
